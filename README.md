@@ -4,7 +4,8 @@ I'm a Systems Analysis and Development student at [PUC-PR](https://www.pucpr.br/
 
 Looking for Backend Internship.
 
-## Stack
+<details>
+    <summary>Stack</summary>
 
 ### 💻 | Languages | 💻
 | language | rating |
@@ -28,6 +29,7 @@ Looking for Backend Internship.
 ## 🗂️ | Current Projects | 📂📁
 - [AxxiomBot](https://github.com/Gzc-z/AxxiomBot)
 -
+</details>
 
 ### 🌐 | Contacts | 📞
 <div align="left">
