@@ -18,7 +18,7 @@ Looking for Backend Internship.
 | Node.js  | 4/10   |
 | C        | 1/10   |
 
-### 🔧 | Tools | ⚙️
+### 🔧 | Tools / Infra | ⚙️
 - Rest APIs
 - Database
 - Git
