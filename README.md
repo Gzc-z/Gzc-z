@@ -43,7 +43,7 @@ Looking for Backend Internship.
 <br>
 
 > [!NOTE]
-> ## Contact
+> Contact
 
 <div align="center">
 
