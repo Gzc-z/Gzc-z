@@ -6,7 +6,7 @@ I'm a Systems Analysis and Development student.
 I'm currently working on a project called 
 Looking for Backend Internship.
 
-# Stack
+## Stack
 
 ### 💻 | Languages | 💻
 | language | rating |
@@ -27,13 +27,7 @@ Looking for Backend Internship.
 - SQL (basic of MySQL)
 - CI/CD
 
-# 📚 | Currently learning | 📚
-- [ ] Shell
-- [ ] Redis
-- [x] Python
-- [ ] C
-
-# 🔭 | Current Projects | 🔭
+## 🔭 | Current Projects | 🔭
 - [AxxiomBot](https://github.com/Gzc-z/AxxiomBot)
 -
 
