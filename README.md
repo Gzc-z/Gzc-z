@@ -1,4 +1,4 @@
-## gabriel Zaiac
+## Gabriel Zaiac
 
 I'm a Systems Analysis and Development student.
 [PUC-PR](https://www.pucpr.br/) university.
@@ -35,7 +35,8 @@ Looking for Backend Internship.
 
 ## 🔭 | Current Projects | 🔭
 - [AxxiomBot](https://github.com/Gzc-z/AxxiomBot).
-- 
-![https://img.shields.io/badge/Email-bc4131?logo=gmail&logoColor=fff](mailto:gz.gabrielzaiac@gmail.com?subject=boas%20not%C3%ADcias%20:)
-![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/gabriel-zaiac/)
-![https://img.shields.io/badge/github-Gzc--z-blue?logo=github](https://github.com/Gzc-z)
+
+
+[![Email](https://img.shields.io/badge/Email-bc4131?logo=gmail&logoColor=fff)](mailto:gz.gabrielzaiac@gmail.com?subject=boas%20not%C3%ADcias%20:)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-zaiac/)
+[![github](https://img.shields.io/badge/github-Gzc--z-blue?logo=github)](https://github.com/Gzc-z)  
