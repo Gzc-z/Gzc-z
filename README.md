@@ -38,13 +38,6 @@ Looking for Backend Internship.
 -
 
 <br>
-<details>
-
-<summary>📝 | About me | 📝</summary>
-
-<div style="background: #0f0">
-  Texto vermelho
-</div>
 
 > [!NOTE]
 > Informação importante.
@@ -61,7 +54,6 @@ Looking for Backend Internship.
 > [!CAUTION]
 > Cuidado.
 
-</details>
 <br>
 
 [![Email](https://img.shields.io/badge/Email-bc4131?logo=gmail&logoColor=fff)](mailto:gz.gabrielzaiac@gmail.com?subject=boas%20not%C3%ADcias%20:)  
