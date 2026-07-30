@@ -1,16 +1,49 @@
-## Hi there 👋
+## Hallo
 
-<!--
-**Gzc-z/Gzc-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, nice to meet you, I am Gabriel Zaiac.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Systems Analysis and Development student.
+[PUC-PR](https://www.pucpr.br/) university.
+
+I'm currently working on a project called 
+Looking for Backend Internship.
+
+## Tech stack
+
+### 💻 | Languages | 💻
+| language | rating |
+|----------|--------|
+| Go       | 7.5/10 |
+| Shell    | 6/10   |
+| Python   | 5/10   |
+| Node.js  | 4/10   |
+| C        | 1/10   |
+
+## Backend
+- Rest APIs
+- Database
+- 
+
+## 🔧 | Tools & Infrastructure| ⚙️
+- Git
+- Neovim
+- Docker & Docker compose
+- Linux
+- SQL (basic of MySQL)
+- CI/CD
+
+### 📚 | Currently learning | 📚
+- [ ] Shell
+- [ ] Redis
+- [x] Python
+- [ ] C
+
+### 🔭 | Current Projects | 🔭
+- [AxxiomBot](https://github.com/Gzc-z/AxxiomBot).
+- 
+
+### 📫 Contact
+[https://img.shields.io/badge/Email-bc4131?logo=gmail&logoColor=fff](mailto:gz.gabrielzaiac@gmail.com?subject=boas%20not%C3%ADcias%20:)
+[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/gabriel-zaiac/)
+[https://img.shields.io/badge/github-Gzc--z-blue?logo=github](https://github.com/Gzc-z)
