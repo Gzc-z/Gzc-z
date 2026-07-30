@@ -37,6 +37,12 @@ Looking for Backend Internship.
 - [AxxiomBot](https://github.com/Gzc-z/AxxiomBot)
 -
 
+<br>
+
+<div style="color:red">
+  Texto vermelho
+</div>
+<br>
 
 [![Email](https://img.shields.io/badge/Email-bc4131?logo=gmail&logoColor=fff)](mailto:gz.gabrielzaiac@gmail.com?subject=boas%20not%C3%ADcias%20:)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-zaiac/)  
