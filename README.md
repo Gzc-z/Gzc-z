@@ -1,7 +1,4 @@
-## Hallo
-
-Hi, nice to meet you, I am Gabriel Zaiac.
-
+## gabriel Zaiac
 
 I'm a Systems Analysis and Development student.
 [PUC-PR](https://www.pucpr.br/) university.
@@ -9,7 +6,7 @@ I'm a Systems Analysis and Development student.
 I'm currently working on a project called 
 Looking for Backend Internship.
 
-## Tech stack
+## Stack
 
 ### 💻 | Languages | 💻
 | language | rating |
@@ -20,12 +17,9 @@ Looking for Backend Internship.
 | Node.js  | 4/10   |
 | C        | 1/10   |
 
-## Backend
+### 🔧 | Tools | ⚙️
 - Rest APIs
 - Database
-- 
-
-## 🔧 | Tools & Infrastructure| ⚙️
 - Git
 - Neovim
 - Docker & Docker compose
@@ -33,17 +27,15 @@ Looking for Backend Internship.
 - SQL (basic of MySQL)
 - CI/CD
 
-### 📚 | Currently learning | 📚
+## 📚 | Currently learning | 📚
 - [ ] Shell
 - [ ] Redis
 - [x] Python
 - [ ] C
 
-### 🔭 | Current Projects | 🔭
+## 🔭 | Current Projects | 🔭
 - [AxxiomBot](https://github.com/Gzc-z/AxxiomBot).
 - 
-
-### 📫 Contact
-[https://img.shields.io/badge/Email-bc4131?logo=gmail&logoColor=fff](mailto:gz.gabrielzaiac@gmail.com?subject=boas%20not%C3%ADcias%20:)
-[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/gabriel-zaiac/)
-[https://img.shields.io/badge/github-Gzc--z-blue?logo=github](https://github.com/Gzc-z)
+![https://img.shields.io/badge/Email-bc4131?logo=gmail&logoColor=fff](mailto:gz.gabrielzaiac@gmail.com?subject=boas%20not%C3%ADcias%20:)
+![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/gabriel-zaiac/)
+![https://img.shields.io/badge/github-Gzc--z-blue?logo=github](https://github.com/Gzc-z)
