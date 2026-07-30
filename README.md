@@ -38,7 +38,7 @@ Looking for Backend Internship.
 [![Email](https://img.shields.io/badge/Email-bc4131?logo=gmail&logoColor=fff)](mailto:gz.gabrielzaiac@gmail.com?subject=boas%20not%C3%ADcias%20:)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-zaiac/)
 [![github](https://img.shields.io/badge/github-Gzc--z-blue?logo=github)](https://github.com/Gzc-z)
-[WhatsApp](https://wa.me/5541992221853)
-[Ligar](tel:+5541992221853)
+[![WhatsApp](https://img.shields.io/badge/Gabriel%20Zaiac-green?logo=whatsapp&logoColor=fff)](https://wa.me/5541992221853)
+[📞Ligar para +55 41 99222- 1853](tel:+5541992221853)
 
 </div>
