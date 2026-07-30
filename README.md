@@ -28,9 +28,14 @@ Looking for Backend Internship.
 - SQL (basic of MySQL)
 - CI/CD
 
-## 🗂️ | Current Projects | 📂📁
+<details>
+    <summary>🔧 Projects 📁</summary>
+
+## 🗂️ | Current Projects | 📂
 - [AxxiomBot](https://github.com/Gzc-z/AxxiomBot)
 -
+
+</details>
 </details>
 
 ### 🌐 | Contacts | 📞
