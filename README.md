@@ -33,7 +33,7 @@ Looking for Backend Internship.
 
 ## 🗂️ | Current Projects | 📂
 - [AxxiomBot](https://github.com/Gzc-z/AxxiomBot)
--
+- [Machine Learning](https://github.com/Gzc-z/MachineLearning-pucpr)
 
 </details>
 </details>
