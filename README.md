@@ -40,11 +40,26 @@ Looking for Backend Internship.
 <br>
 <details>
 
-    <summary>📝 | About me | 📝</summary>
+<summary>📝 | About me | 📝</summary>
 
 <div style="background: #0f0">
   Texto vermelho
 </div>
+
+> [!NOTE]
+> Informação importante.
+
+> [!TIP]
+> Dica útil.
+
+> [!IMPORTANT]
+> Muito importante.
+
+> [!WARNING]
+> Atenção.
+
+> [!CAUTION]
+> Cuidado.
 
 </details>
 <br>
