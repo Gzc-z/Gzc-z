@@ -1,9 +1,8 @@
 ## Gabriel Zaiac
 
-I'm a Systems Analysis and Development student.
+I'm a Systems Analysis and Development student.<br>
 [PUC-PR](https://www.pucpr.br/) university.
 
-I'm currently working on a project called 
 Looking for Backend Internship.
 
 ## Stack
