@@ -5,7 +5,7 @@ I'm a Systems Analysis and Development student at [PUC-PR](https://www.pucpr.br/
 Looking for Backend Internship.
 
 <details>
-    <summary>Stack</summary>
+    <summary font-size="20px">Stack</summary>
 
 ### 💻 | Languages | 💻
 | language | rating |
