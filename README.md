@@ -1,13 +1,10 @@
-# Gabriel Zaiac
+## Gabriel Zaiac
 
 I'm a Systems Analysis and Development student.
 [PUC-PR](https://www.pucpr.br/) university.
 
 I'm currently working on a project called 
 Looking for Backend Internship.
-
-> [!IMPORTANT]
-> ## Muito importante.
 
 # Stack
 
@@ -42,10 +39,10 @@ Looking for Backend Internship.
 
 <br>
 
-> [!NOTE]
-> Contact
+> [!IMPORTANT]
+> # Contact
 
-<div align="center">
+<div align="left">
 
 [![Email](https://img.shields.io/badge/Email-bc4131?logo=gmail&logoColor=fff)](mailto:gz.gabrielzaiac@gmail.com?subject=boas%20not%C3%ADcias%20:)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-zaiac/)
