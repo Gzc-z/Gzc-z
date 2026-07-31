@@ -25,7 +25,7 @@ Looking for Backend Internship.
 - Neovim
 - Docker & Docker compose
 - Linux
-- SQL (basic of MySQL)
+- SQL language
 - CI/CD
 
 <details>
