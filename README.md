@@ -14,8 +14,8 @@ Looking for Backend Internship.
 |----------|--------|
 | Go       | 7.5/10 |
 | Shell    | 6/10   |
+| Java     | 6/10   |
 | Python   | 5/10   |
-| Node.js  | 4/10   |
 | C        | 1/10   |
 
 ### 🔧 | Tools / Infra | ⚙️
