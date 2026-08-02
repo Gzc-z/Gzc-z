@@ -10,13 +10,13 @@ Looking for Backend Internship.
 ## My Stack
 
 ### 💻 | Languages | 💻
-| language | rating |
-|----------|--------|
-| Go       | 7.5/10 |
-| Shell    | 6/10   |
-| Java     | 6/10   |
-| Python   | 5/10   |
-| C        | 1/10   |
+| language     | rating |
+|--------------|--------|
+| Go           | 7.5/10 |
+| Java         | 6/10   |
+| Python       | 6/10   |
+| Shell script | 6/10   |
+| C            | 1/10   |
 
 ### 🔧 | Tools / Infra | ⚙️
 - Rest APIs
